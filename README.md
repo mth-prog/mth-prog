@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Mateus and I'm a Backend Developer, from From São paulo</p>
+<p align="left">My name is Mateus and I'm a Backend Developer From São paulo</p>
 
 ###
 
