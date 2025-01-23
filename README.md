@@ -2,14 +2,18 @@
 
 ###
 
-<p align="left">My name is Mateus and I'm a Software enginner, from From São paulo</p>
+<p align="left">My name is Mateus and I'm a Backend Developer, from From São paulo</p>
 
 ###
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="medium logo"  />
-  <a target="_blank" href="https://geeksforgeeks.org">
+<div align="left">
+  <a target="_blank" href="https://www.linkedin.com/in/mateus-santos-pereira/">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a target="_blank" href="https://medium.com/@mateus.santos.p.74.v">
+    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="medium logo"  />
+  </a>
+  <a target="_blank" href="mailto:mateus.santos.p.74.v@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
   </a>
 </div>
@@ -18,7 +22,10 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">
+  Atuo como Desenvolvedor Backend e amo tecnologia  <br>
+  Atualmente estou estudando design systems e estou criando um projeto em electron <br>
+</p>
 
 ###
 
@@ -54,10 +61,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
 
-###
-
-<div align="left">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=2&username=@mateus.santos.p.74.v&theme=dark" alt="Layout with last medium posts"  />
-</div>
-
-###
